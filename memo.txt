@@ -1,0 +1,19 @@
+Git (로컬) / GitHub (원격)  :   형상관리 프로그램
+
+- 웹하드와 비슷함
+
+1일차 a 작업 완료 -> Git에 기록
+2일차 b 작업 완료 -> Git에 기록
+
+
+설치할 때 :
+Git 설치 - 시작 - Git Bash - $ git config --global user.name 'hhhk' 입력 후 엔터 -$ git config --global user.email 'hakyeong0@naver.com' 입력 후 엔터 - 종료
+
+
+
+
+
+
+
+
+
