@@ -10,10 +10,10 @@ Git (로컬) / GitHub (원격)  :   형상관리 프로그램
 Git 설치 - 시작 - Git Bash - $ git config --global user.name 'hhhk' 입력 후 엔터 -$ git config --global user.email 'hakyeong0@naver.com' 입력 후 엔터 - 종료
 
 
-
-
-
-
+git init : 초기화
+git add . : 스테이징 (기록할 문서를 메모리에 올려둠, 저장은 아님)
+git status :  상태 확인
+git commit -m '커밋메세지' : 스테이징 된 파일을 커밋 (저장)
 
 
 
